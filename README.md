@@ -1,1 +1,1 @@
-# javascript-project-7
+# Calculator
